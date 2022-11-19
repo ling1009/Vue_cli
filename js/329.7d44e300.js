@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_command"]=self["webpackChunkvue_cli_command"]||[]).push([[329],{5329:function(n,e,c){c.r(e),c.d(e,{default:function(){return d}});var s=c(3396);const u={class:"news"},r=(0,s._)("h1",null,"This is News page",-1),a=[r];function i(n,e){return(0,s.wg)(),(0,s.iD)("div",u,a)}var t=c(89);const l={},o=(0,t.Z)(l,[["render",i]]);var d=o}}]);
+//# sourceMappingURL=329.7d44e300.js.map
